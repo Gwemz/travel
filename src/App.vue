@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <!-- https://gitee.com/dell-lee/Travel -->
+    <!-- <img src="./assets/logo.png"> -->
     <router-view/>
   </div>
 </template>
