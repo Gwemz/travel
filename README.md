@@ -38,3 +38,15 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 安装vue-awesome-swiper插件
 `cnpm install vue-awesome-swiper@2.6.7 --save`
+
+创建分支：
+`git branch index-icons`
+
+推送本地分支到远程：
+`git push --set-upstream origin index-icons`
+
+切换分支：
+`git checkout master`
+
+合并分支：
+`git merge origin/index-icons`
