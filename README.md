@@ -35,3 +35,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 启动项目
 `npm run dev`
+
+安装vue-awesome-swiper插件
+`cnpm install vue-awesome-swiper@2.6.7 --save`
