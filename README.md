@@ -50,3 +50,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 合并分支：
 `git merge origin/index-icons`
+
+参考链接：
+`http://piao.qunar.com/touch/`
