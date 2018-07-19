@@ -53,3 +53,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 参考链接：
 `http://piao.qunar.com/touch/`
+
+安装axios:
+`cnpm install axios --save`
