@@ -56,3 +56,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 安装axios:
 `cnpm install axios --save`
+
+安装better-scroll:
+`cnpm install better-scroll --save`
